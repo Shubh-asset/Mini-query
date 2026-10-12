@@ -1,0 +1,10 @@
+^D:\CODING\P1\MINIQUERY\BUILD\CMAKEFILES\F579E808F9E6621FC07B051F729F2311\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Coding/P1/miniquery -BD:/Coding/P1/miniquery/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Coding/P1/miniquery/build/MiniQuery.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

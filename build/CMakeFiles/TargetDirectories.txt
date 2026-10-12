@@ -1,0 +1,2 @@
+D:/Coding/P1/miniquery/build/CMakeFiles/ALL_BUILD.dir
+D:/Coding/P1/miniquery/build/CMakeFiles/ZERO_CHECK.dir
