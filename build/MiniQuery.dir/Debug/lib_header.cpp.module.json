@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "MiniQuery.dir\\Debug\\lib_header.obj",
+            "outputs": [
+                "D:\\Coding\\P1\\miniquery\\build\\MiniQuery.dir\\Debug\\vc143.pdb",
+                "MiniQuery.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

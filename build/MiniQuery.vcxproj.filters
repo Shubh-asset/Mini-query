@@ -4,6 +4,9 @@
     <ClCompile Include="D:\Coding\P1\miniquery\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\Coding\P1\miniquery\src\lib_header.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="D:\Coding\P1\miniquery\CMakeLists.txt" />
